@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Hexo
 index_img: /img/avatar.png
 date: 2019-10-10 10:00:00
 sticky: 100
@@ -34,7 +34,7 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 
 ### Deploy to remote sites
 
-``` bash
+```' bash
 $ hexo deploy
 ```
 
