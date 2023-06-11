@@ -1,11 +1,11 @@
 ---
-title: rtThread
-categories: rtThread
-tags: rtThread
+title: t-thread
+categories: t-thread
+tags: t-thread
 author: Noodles
 comments: true
-index_img: /img/rust.png
-excerpt: 操作系统
+index_img: /img/avatar.png
+excerpt: 嵌入式
 date: 2022-11-22 10:00:00
 updated: 2022-09-28 20:00:00
 sticky: 2
