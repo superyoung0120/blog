@@ -1,15 +1,13 @@
 ---
 title: GDB笔记
 categories: GDB
-tags:linux
+tags: linux
 author: Noodles
 comments: true
 index_img: /img/avatar.png
 excerpt: 本篇博客作为GDB的使用方法记录，方便使用时查找，不不定期更新。
 date: 2023-06-22 10:00:00
 updated: 2023-06-28 10:00:00
----
-
 ---
 
 GDB笔记
