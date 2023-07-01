@@ -1,6 +1,6 @@
 ---
-title: t-thread
-categories: t-thread
+title: rt-thread
+categories: rt-thread
 tags: t-thread
 author: Noodles
 comments: true
