@@ -10,8 +10,9 @@ date: 2023-06-22 10:00:00
 updated: 2023-06-28 10:00:00
 ---
 
-GDB笔记
+---
 
+GDB笔记
 
 本篇博客作为GDB的使用方法记录，方便使用时查找，不不定期更新。文中使用方法均时基于WSL:Ubuntu-20.4.如果想了解更多GDB至少，可以查看GDB官方手册：[Top (Debugging with GDB) (sourceware.org)](https://sourceware.org/gdb/onlinedocs/gdb/)
 
