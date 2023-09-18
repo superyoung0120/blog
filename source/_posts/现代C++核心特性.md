@@ -1,7 +1,13 @@
 ---
 title: 现代C++核心特性解析
+categories: 笔记
+tags: C++
+author: 杨超
+comments: true
 index_img: /img/c++.png
-date: 222-11-112 23:01:00
+excerpt: 《现代c++核心特性解析》阅读笔记
+date: 2023-01-20 10:00:00
+updated: 2023-04-20 10:00:00
 sticky: 2
 ---
 

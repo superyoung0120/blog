@@ -1,12 +1,13 @@
 ---
-title: rust
-categories: rust
-tags: rust
-author: Noodles
+title: STM32笔记
+categories: 嵌入式
+tags: STM32
+author: 杨超
 comments: true
-index_img: /img/rust.png
-excerpt: 安全、效率是软件的发展方向
-date: 2022-11-22 10:00:00
-updated: 2022-09-28 20:00:00
+index_img: /img/avatar.png
+excerpt: STM32笔记
+date: 2023-01-20 10:00:00
+updated: 2023-01-20 10:00:00
+sticky: 2
 ---
 

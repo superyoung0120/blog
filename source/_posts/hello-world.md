@@ -1,5 +1,5 @@
 ---
-title: Hexo
+title: Hexo操作指导
 index_img: /img/avatar.png
 date: 2019-10-10 10:00:00
 sticky: 1
