@@ -9,6 +9,10 @@ sticky: 1
 
 ------------------
 
+
+
+![](Steve McCurry.assets/zgwu61.jpg)
+
 #### 摄影师
 
 ##### 安德烈·古斯基 Andreas Gursky
@@ -237,3 +241,15 @@ Ilker Karaman作品官网[www.littleboxcollective.com](http://www.littleboxcolle
 ##### 《疯狂的麦克斯：狂暴之路》
 
 （2015年）：这部电影通过华丽的视觉效果和独特的拍摄手法，将末日世界中的疯狂和野性表现得非常生动。
+
+
+
+\```mermaid
+
+graph LR;
+  A-->B;
+  B-->C;
+  C-->D;
+  D-->A;
+
+\```
