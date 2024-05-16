@@ -4,7 +4,7 @@ categories: 操作系统
 tags: rtThread
 author: Noodles
 comments: true
-index_img: /img/avatar.png
+index_img: /img/reboot.png
 excerpt: rt-thread是一个由国内团队打造的rtos
 date: 2022-09-22 10:00:00
 updated: 2022-09-28 20:00:00

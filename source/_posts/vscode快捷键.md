@@ -1,4 +1,16 @@
-
+---
+title: vscode常用快捷键
+categories: vscode常用快捷键
+tags: 工具
+keywords: vscode
+author: Noodles
+comments: true
+index_img: /img/tool.png
+excerpt: vscode常用快捷键
+date: 2024-03-22 10:00:00
+updated: 2024-05-15 20:00:00
+sticky: 1
+---
 
 vscode快捷键
 

@@ -1,3 +1,16 @@
+---
+title: opencv笔记
+categories: opencv
+tags: opencv
+author: Noodles
+comments: true
+index_img: /img/reboot.png
+excerpt: 学习QT开发的笔记
+date: 2023-07-22 10:00:00
+updated: 2023-08-28 10:00:00
+sticky: 1
+---
+
 opencv笔记
 
 安装：

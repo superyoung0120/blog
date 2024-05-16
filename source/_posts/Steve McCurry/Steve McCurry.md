@@ -1,6 +1,6 @@
 ---
 title: 摄影作品
-index_img: /img/avatar.png
+index_img: /img/ps.png
 date: 2019-10-10 10:00:00
 sticky: 1
 ---

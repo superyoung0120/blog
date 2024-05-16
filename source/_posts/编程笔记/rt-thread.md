@@ -4,7 +4,7 @@ categories: 嵌入式
 tags: rtos
 author: 杨超
 comments: true
-index_img: /img/avatar.png
+index_img: /img/reboot.png
 excerpt: rt-thread是一个由国内团队打造的rtos
 date: 2023-06-01 10:00:00
 updated: 2023-07-01 20:00:00
