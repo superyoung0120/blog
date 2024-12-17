@@ -1,3 +1,15 @@
+---
+title: rust
+categories: rust
+tags: rust
+author: Noodles
+comments: true
+index_img: /img/px.png
+excerpt: 安全、效率是软件的发展方向
+date: 2022-11-22 10:00:00
+updated: 2022-09-28 20:00:00
+---
+
 ## 为什么要学习rust
 
 rust越来越火了， [rust笔记.md](rust笔记.md) 但是目前正在使用rust的项目并不多，工作岗位基本没有。那么有必要学习rust吗？我的看法是不必要，但是值得了解和学习。站在我的角度有以下几点理由：
