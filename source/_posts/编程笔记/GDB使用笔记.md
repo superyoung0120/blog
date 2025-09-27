@@ -8,7 +8,7 @@ index_img: /img/reboot.png
 excerpt: 本篇博客作为GDB的使用方法记录，方便使用时查找，不不定期更新。
 date: 2023-06-22 10:00:00
 updated: 2023-06-28 10:00:00
-sticky: 3
+sticky: 4
 ---
 
 GDB笔记
